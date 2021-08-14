@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    line-height: 6;
+    display: block;
+    color: rgba(0, 0, 0, 0.945);
+
+    
+
+}
+
+#banner {
+    color: rgba(0, 0, 0, 0.945);
+}
+
+header {
+    max-width: 58.75em;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+.test {
+    color: violet;
+}
